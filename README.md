@@ -1,4 +1,4 @@
-# WhatsApp Broadcaster Pro (Sem API paga)
+# WhatsApp Broadcaster Pro 
 
 Projeto completo (backend + frontend) para disparo de mensagens no WhatsApp usando **whatsapp-web.js** (QR Code), sem custos de API.
 Inclui login por e-mail/senha (JWT), painéis de Funcionário e Admin, relatórios básicos e fila de envio com retry.
